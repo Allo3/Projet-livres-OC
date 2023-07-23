@@ -1,4 +1,3 @@
-/* eslint-disable max-len */
 require('dotenv').config();
 const jwt = require('jsonwebtoken');
 

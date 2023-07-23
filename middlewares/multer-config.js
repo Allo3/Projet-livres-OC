@@ -1,6 +1,3 @@
-/* eslint-disable no-multi-spaces */
-/* eslint-disable max-len */
-/* eslint-disable indent */
 const multer = require('multer');            // sharp-multer permet de modifier le format de notre fichier directement,
 const sharpMulter = require('sharp-multer'); // et la possibilité de changer sa taille directement dans sa définition
 

@@ -1,12 +1,3 @@
-/* eslint-disable no-trailing-spaces */
-/* eslint-disable no-shadow */
-/* eslint-disable max-len */
-/* eslint-disable consistent-return */
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-tabs */
-/* eslint-disable no-mixed-spaces-and-tabs */
-/* eslint-disable prefer-destructuring */
-/* eslint-disable no-underscore-dangle */
 const fs = require('fs');
 const Book = require('../models/Books');
 
